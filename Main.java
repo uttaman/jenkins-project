@@ -8,6 +8,6 @@ public class Main{
         System.out.println("Hello Git repo");
         System.out.println("auto sync check");
         Student student = new Student();
-        student.studentName("Aman");
+        student.studentName();
     }
 }

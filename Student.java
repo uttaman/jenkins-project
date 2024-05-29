@@ -1,7 +1,7 @@
 
 public class Student{
 
-    pulic void studentName(String name){
-        System.out.println("Hello " + name);
+    pulic void studentName(){
+        System.out.println("Hello Student" );
     }
 }
